@@ -1,3 +1,6 @@
+Привет! Это проект о Когане (а точнее, черновик проекта).
+Enjoy!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Marina-Kudr/kogan_the_project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
